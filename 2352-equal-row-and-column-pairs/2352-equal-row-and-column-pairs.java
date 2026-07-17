@@ -1,33 +1,36 @@
+import java.util.*;
+
 class Solution {
+
     public int equalPairs(int[][] grid) {
-        int pair=0;
-        int temp=0;
-        int row=0;
-        while(temp<=grid.length-1)
-        {
-            HashMap<Integer,Integer> map=new HashMap<>();
-            for(int j=0;j<grid.length;j++)
-            {
-                map.put(j,grid[row][j]);
+        int n = grid.length;
+
+        Map<List<Integer>, Integer> rowFrequency = new HashMap<>();
+
+        // Store all rows with their frequencies
+        for (int row = 0; row < n; row++) {
+            List<Integer> values = new ArrayList<>();
+
+            for (int col = 0; col < n; col++) {
+                values.add(grid[row][col]);
             }
-            for(int i=0;i<grid.length;i++)
-            {
-                int curr=0;
-                for(int k=0;k<grid.length;k++)
-                {
-                    if(map.get(k)!=grid[k][i])
-                    {
-                        curr=0;
-                        break;
-                    }
-                    else
-                        curr=1;
-                }
-                pair+=curr;
-            }
-            row++;
-            temp++;
+
+            rowFrequency.merge(values, 1, Integer::sum);
         }
-        return pair;
+
+        int pairs = 0;
+
+        // Create each column and check whether it matches a row
+        for (int col = 0; col < n; col++) {
+            List<Integer> values = new ArrayList<>();
+
+            for (int row = 0; row < n; row++) {
+                values.add(grid[row][col]);
+            }
+
+            pairs += rowFrequency.getOrDefault(values, 0);
+        }
+
+        return pairs;
     }
 }

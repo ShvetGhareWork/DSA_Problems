@@ -5,16 +5,16 @@ class Solution {
         int n = senate.length();
 
         for(int i = 0; i < n; i++){
-            if(senate.charAt(i) == 'R') radiant.add(i);
-            else dire.add(i);
+            if(senate.charAt(i) == 'R') radiant.offer(i);
+            else dire.offer(i);
         }
         
         while(!radiant.isEmpty() && !dire.isEmpty()){
-            if(radiant.peek() < dire.peek()) radiant.add(n++);
-            else dire.add(n++);
+            if(radiant.peek() < dire.peek()) radiant.offer(n++);
+            else dire.offer(n++);
 
-            radiant.remove();
-            dire.remove();
+            radiant.poll();
+            dire.poll();
         }
 
         if(dire.isEmpty()) return "Radiant";

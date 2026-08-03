@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0724-find-pivot-index) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2352-equal-row-and-column-pairs) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0657-robot-return-to-origin) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -603,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -659,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1406-stone-game-iii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->

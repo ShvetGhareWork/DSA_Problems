@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1765-map-of-highest-peak) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1672-richest-customer-wealth) |
+| [1765-map-of-highest-peak](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1765-map-of-highest-peak) |
 | [2352-equal-row-and-column-pairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1765-map-of-highest-peak) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |

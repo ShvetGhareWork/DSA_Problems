@@ -11,8 +11,6 @@ class Solution {
             n /= 10;
         }
 
-        if(originalValue % (sumValue + prodValue) == 0) return true;
-
-        return false;
+        return originalValue % (sumValue + prodValue) == 0;
     }
 }

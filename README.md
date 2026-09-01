@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1254-number-of-closed-islands) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |

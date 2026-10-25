@@ -1,10 +1,12 @@
 class Solution {
     public int closedIsland(int[][] grid) {
-        int rows = grid.length, cols = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
         int count = 0;
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == 0 && dfs(grid, i, j)) {
+
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 0 && checkIsland(grid, i, j)){
                     count++;
                 }
             }
@@ -13,18 +15,19 @@ class Solution {
         return count;
     }
 
-    private boolean dfs(int[][] grid, int r, int c) {
-        if (r < 0 || r >= grid.length || c < 0 || c >= grid[0].length)
-            return false;
+    private boolean checkIsland(int[][] grid, int x, int y){
+        int m = grid.length;
+        int n = grid[0].length;
+        if(x < 0 || x >= m || y < 0 || y >= n) return false;
 
-        if (grid[r][c] == 1)
-            return true;
-        grid[r][c] = 1;
-        boolean down = dfs(grid, r + 1, c);
-        boolean up = dfs(grid, r - 1, c);
-        boolean right = dfs(grid, r, c + 1);
-        boolean left = dfs(grid, r, c - 1);
+        if(grid[x][y] == 1) return true;
+        grid[x][y] = 1;
 
-        return left && right && up && down;
+        boolean left = checkIsland(grid, x - 1, y);
+        boolean right = checkIsland(grid, x + 1, y);
+        boolean top = checkIsland(grid, x, y + 1);
+        boolean down = checkIsland(grid, x, y - 1);
+
+        return left && right && top && down;
     }
 }

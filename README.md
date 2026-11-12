@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0941-valid-mountain-array) |
+| [0978-longest-turbulent-subarray](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0940-distinct-subsequences-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1140-stone-game-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1406-stone-game-iii) |

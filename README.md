@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-largest-number-after-mutating-substring](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/1946-largest-number-after-mutating-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3665-twisted-mirror-path-count](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/ShvetGhareWork/https-github.com-ShvetGhareWork-DSA_Problems/tree/master/3693-climbing-stairs-ii) |
